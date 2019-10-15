@@ -6,7 +6,7 @@ This is a Python implementation of the algorithm described in the KDD2019 paper 
 Python version: 3.5+
 
 usage:
-1) download all 3 folders and files into a folder.
-2) extract toy data from ''6models_wholeUSA_synthetic3_21random11_36months6to1p_0.01_0.01_8.0_random.rar'' in the ./data/synthetic/ folder
+1) download all 3 folders and files (src, data and results) into a folder.
+2) extract toy data from ''6models_wholeUSA_synthetic3_21random11_36months6to1p_0.01_0.01_8.0_random.rar'' in the data/synthetic/ folder
 3) run mainsns.py in the src folder.
-4) the results will be in the /results folder.
+4) the results will be in the results folder.
